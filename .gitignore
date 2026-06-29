@@ -1,0 +1,13 @@
+# Ignorer tout par défaut
+*
+
+# Site web uniquement
+!.gitignore
+!index.html
+!data/
+!data/annales_app.json
+!images/
+!images/*.png
+!images/*.jpeg
+!images/merged/
+!images/merged/*.png
