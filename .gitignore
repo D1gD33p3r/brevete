@@ -11,3 +11,12 @@
 !images/*.jpeg
 !images/merged/
 !images/merged/*.png
+
+# Exclusions explicites — défense en profondeur (déjà couvertes par * ci-dessus,
+# mais listées ici pour que ces dossiers restent exclus si * est un jour retiré)
+COMPTE EMAIL/
+_GARBAGE/
+_backups/
+_ISO_PROD_v1_20260630/
+_archive/
+v2_extract/
